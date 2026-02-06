@@ -57,6 +57,8 @@ python app.py
 4. Open in browser
 http://127.0.0.1:5000/
 
+Notes:
+- Email delivery uses Gmail SMTP and requires an App Password (regular Gmail passwords are not supported).
 
 
 📊 Input Format
